@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s root/bin/ls root/atlas-shell/basics/_ls_ 
+ln -s root/bin/ls _ls_ 
