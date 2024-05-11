@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -n 10 -path .| wc -l
+ls -1t | head -10
