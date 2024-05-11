@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d -name '.*' | wc -1
+find /atlas-shell/io_redirections_and_filters -type d |wc -l
