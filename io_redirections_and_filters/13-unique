@@ -1,2 +1,2 @@
 #!/bin/bash
-ls list_1 | sort --ignore-case | unique -u
+ls -l list | sort | uniq
