@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script will repeat Best school 10 times
+i=5
+while [ $i -gt 0 ]; do
+echo "Best School"
+((i--))
+done
