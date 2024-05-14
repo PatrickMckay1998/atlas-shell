@@ -1,2 +1,2 @@
-#!/bin/bash
-for i in {1..10} do echo Best School 
+#!/usr/bin/bash
+head -n 2 1-for_best_school | tail -1 | head -c 1 
